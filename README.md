@@ -1,9 +1,9 @@
 # AMOGUS
-'pip install tkinter'
+pip install tkinter
 
-'pip install playsound'
+pip install playsound
 
-'pip install threading'
+pip install threading
 
 
 python amogus.py
